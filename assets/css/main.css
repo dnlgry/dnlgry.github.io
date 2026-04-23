@@ -2219,7 +2219,7 @@ input, select, textarea {
 		.button.primary {
 			background-color: #000000;
 			box-shadow: none;
-			color: #ffffff !important;
+			color: #f2f0ef !important;
 		}
 
 			input[type="submit"].primary:hover,
@@ -2508,7 +2508,7 @@ input, select, textarea {
 
 		select option {
 			color: #000000;
-			background: #ffffff;
+			background: #f2f0ef;
 		}
 
 	input[type="checkbox"] + label,
@@ -2525,7 +2525,7 @@ input, select, textarea {
 	input[type="radio"]:checked + label:before {
 		background-color: #000000;
 		border-color: #000000;
-		color: #ffffff;
+		color: #f2f0ef;
 	}
 
 	input[type="checkbox"]:focus + label:before,
@@ -6353,7 +6353,7 @@ input, select, textarea {
 
 	.gallery.style1 {
 		background-color: #000000;
-		color: #ffffff;
+		color: #f2f0ef;
 		-moz-align-items: center;
 		-webkit-align-items: center;
 		-ms-align-items: center;
@@ -6376,11 +6376,11 @@ input, select, textarea {
 	}
 
 		.gallery.style1 input, .gallery.style1 select, .gallery.style1 textarea {
-			color: #ffffff;
+			color: #f2f0ef;
 		}
 
 		.gallery.style1 a {
-			color: #ffffff;
+			color: #f2f0ef;
 		}
 
 			.gallery.style1 a:hover {
@@ -6388,11 +6388,11 @@ input, select, textarea {
 			}
 
 		.gallery.style1 strong, .gallery.style1 b {
-			color: #ffffff;
+			color: #f2f0ef;
 		}
 
 		.gallery.style1 h1, .gallery.style1 h2, .gallery.style1 h3, .gallery.style1 h4, .gallery.style1 h5, .gallery.style1 h6 {
-			color: #ffffff;
+			color: #f2f0ef;
 		}
 
 		.gallery.style1 blockquote {
@@ -6415,7 +6415,7 @@ input, select, textarea {
 		.gallery.style1 .button {
 			background-color: transparent;
 			box-shadow: inset 0 0 0 1px white;
-			color: #ffffff !important;
+			color: #f2f0ef !important;
 		}
 
 			.gallery.style1 input[type="submit"]:hover,
@@ -6442,7 +6442,7 @@ input, select, textarea {
 			.gallery.style1 input[type="button"].primary,
 			.gallery.style1 button.primary,
 			.gallery.style1 .button.primary {
-				background-color: #ffffff;
+				background-color: #f2f0ef;
 				box-shadow: none;
 				color: #000000 !important;
 			}
@@ -6689,7 +6689,7 @@ input, select, textarea {
 
 	.gallery.style2 {
 		background-color: #000000;
-		color: #ffffff;
+		color: #f2f0ef;
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
@@ -6700,11 +6700,11 @@ input, select, textarea {
 	}
 
 		.gallery.style2 input, .gallery.style2 select, .gallery.style2 textarea {
-			color: #ffffff;
+			color: #f2f0ef;
 		}
 
 		.gallery.style2 a {
-			color: #ffffff;
+			color: #f2f0ef;
 		}
 
 			.gallery.style2 a:hover {
@@ -6712,11 +6712,11 @@ input, select, textarea {
 			}
 
 		.gallery.style2 strong, .gallery.style2 b {
-			color: #ffffff;
+			color: #f2f0ef;
 		}
 
 		.gallery.style2 h1, .gallery.style2 h2, .gallery.style2 h3, .gallery.style2 h4, .gallery.style2 h5, .gallery.style2 h6 {
-			color: #ffffff;
+			color: #f2f0ef;
 		}
 
 		.gallery.style2 blockquote {
@@ -6739,7 +6739,7 @@ input, select, textarea {
 		.gallery.style2 .button {
 			background-color: transparent;
 			box-shadow: inset 0 0 0 1px white;
-			color: #ffffff !important;
+			color: #f2f0ef !important;
 		}
 
 			.gallery.style2 input[type="submit"]:hover,
@@ -6766,7 +6766,7 @@ input, select, textarea {
 			.gallery.style2 input[type="button"].primary,
 			.gallery.style2 button.primary,
 			.gallery.style2 .button.primary {
-				background-color: #ffffff;
+				background-color: #f2f0ef;
 				box-shadow: none;
 				color: #000000 !important;
 			}
@@ -7128,7 +7128,7 @@ input, select, textarea {
 			width: 4rem;
 			height: 4rem;
 			margin: -2rem 0 0 -2rem;
-			background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='96px' height='96px' viewBox='0 0 96 96' zoomAndPan='disable'%3E%3Cstyle%3Ecircle %7Bfill: transparent%3B stroke: %23ffffff%3B stroke-width: 1.5px%3B %7D%3C/style%3E%3Cdefs%3E%3CclipPath id='corner'%3E%3Cpolygon points='0,0 48,0 48,48 96,48 96,96 0,96' /%3E%3C/clipPath%3E%3C/defs%3E%3Cg clip-path='url(%23corner)'%3E%3Ccircle cx='48' cy='48' r='32'/%3E%3C/g%3E%3C/svg%3E");
+			background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='96px' height='96px' viewBox='0 0 96 96' zoomAndPan='disable'%3E%3Cstyle%3Ecircle %7Bfill: transparent%3B stroke: %23f2f0ef%3B stroke-width: 1.5px%3B %7D%3C/style%3E%3Cdefs%3E%3CclipPath id='corner'%3E%3Cpolygon points='0,0 48,0 48,48 96,48 96,96 0,96' /%3E%3C/clipPath%3E%3C/defs%3E%3Cg clip-path='url(%23corner)'%3E%3Ccircle cx='48' cy='48' r='32'/%3E%3C/g%3E%3C/svg%3E");
 			background-position: center;
 			background-repeat: no-repeat;
 			background-size: 4rem;
@@ -7144,7 +7144,7 @@ input, select, textarea {
 			width: 4rem;
 			height: 4rem;
 			cursor: pointer;
-			background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='64px' height='64px' viewBox='0 0 64 64' zoomAndPan='disable'%3E%3Cstyle%3Eline %7Bstroke: %23ffffff%3Bstroke-width: 1.5px%3B%7D%3C/style%3E%3Cline x1='20' y1='20' x2='44' y2='44' /%3E%3Cline x1='20' y1='44' x2='44' y2='20' /%3E%3C/svg%3E");
+			background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='64px' height='64px' viewBox='0 0 64 64' zoomAndPan='disable'%3E%3Cstyle%3Eline %7Bstroke: %23f2f0ef%3Bstroke-width: 1.5px%3B%7D%3C/style%3E%3Cline x1='20' y1='20' x2='44' y2='44' /%3E%3Cline x1='20' y1='44' x2='44' y2='20' /%3E%3C/svg%3E");
 			background-position: center;
 			background-repeat: no-repeat;
 			background-size: 3rem;
@@ -7270,7 +7270,7 @@ input, select, textarea {
 
 		.wrapper.style2 > .inner {
 			padding: 5.25rem 3.5rem 3.25rem 3.5rem ;
-			background-color: #ffffff;
+			background-color: #f2f0ef;
 			border-radius: 0.5rem;
 			margin: 0 auto;
 			max-width: 100%;
@@ -8259,15 +8259,15 @@ input, select, textarea {
 
 		#wrapper > .invert {
 			background-color: #000000;
-			color: #ffffff;
+			color: #f2f0ef;
 		}
 
 			#wrapper > .invert input, #wrapper > .invert select, #wrapper > .invert textarea {
-				color: #ffffff;
+				color: #f2f0ef;
 			}
 
 			#wrapper > .invert a {
-				color: #ffffff;
+				color: #f2f0ef;
 			}
 
 				#wrapper > .invert a:hover {
@@ -8275,11 +8275,11 @@ input, select, textarea {
 				}
 
 			#wrapper > .invert strong, #wrapper > .invert b {
-				color: #ffffff;
+				color: #f2f0ef;
 			}
 
 			#wrapper > .invert h1, #wrapper > .invert h2, #wrapper > .invert h3, #wrapper > .invert h4, #wrapper > .invert h5, #wrapper > .invert h6 {
-				color: #ffffff;
+				color: #f2f0ef;
 			}
 
 			#wrapper > .invert blockquote {
@@ -8306,7 +8306,7 @@ input, select, textarea {
 			#wrapper > .invert .button {
 				background-color: transparent;
 				box-shadow: inset 0 0 0 1px white;
-				color: #ffffff !important;
+				color: #f2f0ef !important;
 			}
 
 				#wrapper > .invert input[type="submit"]:hover,
@@ -8333,7 +8333,7 @@ input, select, textarea {
 				#wrapper > .invert input[type="button"].primary,
 				#wrapper > .invert button.primary,
 				#wrapper > .invert .button.primary {
-					background-color: #ffffff;
+					background-color: #f2f0ef;
 					box-shadow: none;
 					color: #000000 !important;
 				}
@@ -8355,7 +8355,7 @@ input, select, textarea {
 					}
 
 			#wrapper > .invert label {
-				color: #ffffff;
+				color: #f2f0ef;
 			}
 
 			#wrapper > .invert input[type="text"],
@@ -8387,12 +8387,12 @@ input, select, textarea {
 
 				#wrapper > .invert select option {
 					color: #000000;
-					background: #ffffff;
+					background: #f2f0ef;
 				}
 
 			#wrapper > .invert input[type="checkbox"] + label,
 			#wrapper > .invert input[type="radio"] + label {
-				color: #ffffff;
+				color: #f2f0ef;
 			}
 
 				#wrapper > .invert input[type="checkbox"] + label:before,
@@ -8402,8 +8402,8 @@ input, select, textarea {
 
 			#wrapper > .invert input[type="checkbox"]:checked + label:before,
 			#wrapper > .invert input[type="radio"]:checked + label:before {
-				background-color: #ffffff;
-				border-color: #ffffff;
+				background-color: #f2f0ef;
+				border-color: #f2f0ef;
 				color: #000000;
 			}
 
@@ -8414,19 +8414,19 @@ input, select, textarea {
 			}
 
 			#wrapper > .invert ::-webkit-input-placeholder {
-				color: #ffffff !important;
+				color: #f2f0ef !important;
 			}
 
 			#wrapper > .invert :-moz-placeholder {
-				color: #ffffff !important;
+				color: #f2f0ef !important;
 			}
 
 			#wrapper > .invert ::-moz-placeholder {
-				color: #ffffff !important;
+				color: #f2f0ef !important;
 			}
 
 			#wrapper > .invert :-ms-input-placeholder {
-				color: #ffffff !important;
+				color: #f2f0ef !important;
 			}
 
 			#wrapper > .invert .icon.style2:before {
@@ -8449,7 +8449,7 @@ input, select, textarea {
 			}
 
 			#wrapper > .invert header p {
-				color: #ffffff;
+				color: #f2f0ef;
 			}
 
 			#wrapper > .invert table tbody tr {
@@ -8465,7 +8465,7 @@ input, select, textarea {
 				}
 
 			#wrapper > .invert table th {
-				color: #ffffff;
+				color: #f2f0ef;
 			}
 
 			#wrapper > .invert table thead {
