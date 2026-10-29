@@ -8603,3 +8603,103 @@ input, select, textarea {
 			#wrapper.divided > .invert:first-child {
 				box-shadow: none !important;
 			}
+
+/* Our work together — accordion */
+
+.work-together {
+    max-width: 760px;
+    margin: 2.5rem auto 0;
+    text-align: left;
+}
+
+.work-together details {
+    border-top: 1px solid rgba(0, 0, 0, 0.16);
+}
+
+.work-together details:last-child {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.16);
+}
+
+.work-together summary {
+    display: flex;
+    align-items: baseline;
+    gap: 1.25rem;
+    position: relative;
+    padding: 1.5rem 2.5rem 1.5rem 0;
+    list-style: none;
+    cursor: pointer;
+    color: #000;
+}
+
+.work-together summary::-webkit-details-marker {
+    display: none;
+}
+
+.work-together .step-number {
+    flex-shrink: 0;
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 0.8rem;
+    letter-spacing: 0.08em;
+    color: #777;
+}
+
+.work-together .step-title {
+    font-family: "Calistoga", serif;
+    font-size: 1.3rem;
+    line-height: 1.4;
+    font-weight: 400;
+}
+
+.work-together summary::after {
+    content: "+";
+    position: absolute;
+    right: 0;
+    top: 1.45rem;
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 1.5rem;
+    font-weight: 300;
+    line-height: 1.4;
+    color: #777;
+}
+
+.work-together details[open] summary::after {
+    content: "\2212";
+}
+
+.work-together .step-content {
+    padding: 0 2.5rem 1.5rem 2.4rem;
+}
+
+.work-together .step-content p {
+    margin: 0 0 1rem;
+    font-size: 1rem;
+    line-height: 1.7;
+}
+
+.work-together .step-content p:last-child {
+    margin-bottom: 0;
+}
+
+.work-together summary:hover .step-title {
+    opacity: 0.7;
+}
+
+.work-together summary:focus-visible {
+    outline: 2px solid #555;
+    outline-offset: 4px;
+}
+
+@media screen and (max-width: 736px) {
+    .work-together summary {
+        gap: 0.8rem;
+        padding: 1.25rem 2rem 1.25rem 0;
+    }
+
+    .work-together .step-title {
+        font-size: 1.15rem;
+    }
+
+    .work-together .step-content {
+        padding: 0 1rem 1.5rem 1.8rem;
+    }
+}
