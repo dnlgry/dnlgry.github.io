@@ -26,6 +26,8 @@
 				$body.removeClass('is-preload');
 			}, 100);
 		});
+	// Disable initial preload effects.
+	//	$body.removeClass('is-preload');
 
 	// Browser fixes.
 
